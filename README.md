@@ -5,7 +5,7 @@ csgo drag-and-drop
 Drag and drop into directory set in force\_install\_dir
 
 # Contains
-OMMITED FILES:(csgo/database.cfg, server.cfg)  
+OMMITED FILES:(csgo/addons/sourcebans/configs/database.cfg, csgo/cfg/server.cfg)  
   
 Sourcemod 1.8.0         git6041  
 metamod source 1.10.7   git961  
